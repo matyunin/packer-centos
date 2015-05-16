@@ -1,9 +1,7 @@
-packer-centos-7
+Packer CentOS template
 ===============
 
 ```
-vagrant up hfm4/centos7
+vagrant init matyunin/centos-7.1-x86_64-minimal
 ```
 
-#### ref
-https://vagrantcloud.com/hfm4/centos7
